@@ -22,7 +22,10 @@ Machine Learning NER Custom Model and Network Graph Visualization
 	2. Then we add custom labels that are absent in standard model (in our case "DRUG" and "GANG_ORG");
  	3. We add entity_ruler which can be combined with the statistical EntityRecognizer to boost accuracy, or used on its own to implement a purely rule-based entity recognition system
 	4. We add patterns into NER component of the model (as JSON files "drugs_patterns.jsonl" and "gang_patterns.jsonl")
- 	5. 
+ 	5. We convert training data from JSON to spaCy format
+  	6. We retrain the model with training data
+   	7. We test the model with new unseen data
+    	8. We build graph chart with recognized Named Entities
 # What is left to do?
 1. To implement NER coreference system.
 2. To implement Entity Linker based on semantic links in sentences and the whole text.
