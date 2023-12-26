@@ -26,6 +26,7 @@ Machine Learning NER Custom Model and Network Graph Visualization
   	6. We retrain the model with training data
    	7. We test the model with new unseen data
     	8. We build graph chart with recognized Named Entities
+     	All above-mentioned steps contained in "Training_of_the_Custom_Model_1-Copy1.ipynb" notebook in this repo
 # What is left to do?
 1. To implement NER coreference system.
 2. To implement Entity Linker based on semantic links in sentences and the whole text.
