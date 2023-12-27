@@ -1,0 +1,801 @@
+{"label":"GANG_ORG","pattern":[{"lower":"Baltimore Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gallant Knights"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Folk Nation"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wah Ching"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sacra Corona Unita"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kabukimono"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Brotherhood of Eternal Love"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Fukuhaku-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"San Francisco crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Albanian Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Soai-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Russian Anonymous Marketplace"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"856 gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Peckerwood"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"People's Mujahedin of Iran"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kobe Yamaguchi-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Green Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Asian Boyz"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Honghuzi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Barbaro 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kobayashi-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hellbanianz"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Finks Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yiddish Black Hand"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aryan Brotherhood"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chợ Lớn, Ho Chi Minh City"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ozone Park Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Independent Cartel of Acapulco"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bubo Na Tchuto"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Almighty Black P. Stone Nation"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Born to Kill (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"De Stefano 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Miri-Clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Brödraskapet"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gente Nueva"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Pancasila Youth"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Serraino 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kala Kaccha Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Du Roc Crips"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hopi Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wu Bang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dũng Mặt Sắt"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Crips"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dlasthr"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Maruto-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Peoples' Aman Committee"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cowboy Mafia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Junior Black Mafia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ghost Shadows"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nazi Lowriders"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Red Scorpions"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los BackStreet Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Santa Monica 13"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"White Hand Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Greenwich Village Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kkangpae"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sam Gor"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tse Chi Lop"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gas House Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Neighbors' Sons"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sigue Sigue Sputnik (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Logan Heights Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Duquesne Spy Ring"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Grape Street Watts Crips"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Libertadores del Vichada"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Goda-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Armenian Power"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Oaxaca Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jackson Street Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sonora Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Secret societies in Singapore"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"PDC (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kenji Doihara"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Dragons (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ōmuta murders"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Joint criminal enterprise"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nuestra Familia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sio Sam Ong"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mafia Capitale"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"White Uno Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Brighton razor gangs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Minh Sâm"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tamil Tigers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Red Wall Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"OVS (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mamak Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Naserligan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cartel of the Suns"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tor Carding Forum"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hawkhurst Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Murder-for-hire"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Norteños"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Grady Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Murder, Inc."}]}
+{"label":"GANG_ORG","pattern":[{"lower":"La barra del Rojo"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yaakov Alperon"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kozakura-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ali Budesh"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dead Rabbits"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jousters"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jonathan Wild"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dündar Kılıç"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ñetas"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Genovese crime family New Jersey faction"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Beltrán-Leyva Organization"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wo Shing Wo"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Five Points Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"TheRealDeal"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hard Livings"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Terceiro Comando Puro"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Pagan's Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Casamonica clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Menace of Destruction"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Broadway Mob"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shower Posse"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dole Chadee"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Eelam People's Democratic Party"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Anísio Abraão David"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Abergil crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chaddi Baniyan Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Haji Bashar"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Messina Brothers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hornec gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dominican Republic"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Harlem Spartans"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Federated Ship Painters"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Velentzas Organization"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Savage Skulls"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hawngleuk Militia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Papalia crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shiner (Ottawa)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sex Money Murda"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Saltis-McErlane Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bad Newz Kennels dog fighting investigation"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Spanish Cobras"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"X-Team"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kudo-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Pistons Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"King Cobras (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yakey Yakes"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lou Blonger"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Fullerton Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kotwal Ramachandra"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Myanmar Nationalities Democratic Alliance Army"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hanlong Group"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"São Paulo"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Croatian Democratic Union"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mara (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tenth Avenue Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chicago Outfit"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Varrio Nuevo Estrada"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hells Angels Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Artistas Asesinos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mammoliti 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kansas City crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Crazy Butch Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gang of Çole"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mongols Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Suishin-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Matsuyama-rengokai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Fourth Reich (New Zealand gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bellocco 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mabashi-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Live Oak Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Desmond Noonan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Veerappan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sanyika Shakur"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Punjabi-Canadian organized crime"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Batavia Street Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Necati Arabaci"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Camorra clans"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Terceiro Comando"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"MS-13"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kerryonians"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Golden Crescent"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Seattle crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Stidda"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Matsuba-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Waray-Waray gangs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sakaume-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nakano-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Flying Dragons (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Murder of Rhys Jones"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Westies"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"National Liberation Army (Colombia)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Whitney gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"116th Street Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Indian Posse"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Purple Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Axe Confraternity"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Modelguns"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"North Side Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Miami Boys (drug organization)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Senpai and kōhai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Vagos Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Genyōsha"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"18th Street gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Pelones"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yellow Henry Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Taishu-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Omid Tahvili"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Free State of Galveston"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Harry Rosen (mobster)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Al-Zein clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Baxter Street Dudes"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Illegal logging"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Milieu (organized crime in France)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Area boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Razor gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Keane-Collopy"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chopper Read"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Texas Syndicate"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"AlphaBay"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sons of Samoa"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Temple Street (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Koganei-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bufalino crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cherry Hill Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Winter Hill Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cachiros"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Musitano crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Takumi-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"San Jose crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Pittsburgh crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Angie Sanclemente Valencia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"La Resistencia (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rugby boy"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Heidi Fleiss"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Handgun"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shining Path"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Darknet markets"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lehi (group)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Knights Templar Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kyushu Seido-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kumamoto-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Downtown Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dinner Set Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aryan Brotherhood of Texas"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gambino crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Forty Thieves (New York gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Umkosi Wezintaba"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Monzer al-Kassar"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Zemun Clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Satudarah"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Westies (Irish gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Piromalli 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Popes (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jogo do Bicho"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Haqqani Network"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Eastman Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Columbia Point Dawgs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nuvoletta clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tongland (gang area)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lo Russo clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rebels Motorcycle Club (Canada)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Orchard Park Trailblazers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"TIM (Bulgaria)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Pepes"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kyokuto Sakurai-soke-rengokai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"FARC dissidents"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Comanchero Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lynx gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jamaican Posse"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Decepticons (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lucchese crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tito & Dino Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Warlocks Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dainippon Heiwa-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Russian Business Network"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Motisi Mafia clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mali Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Legion of Doom (hacking)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"211 Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Council (drug syndicate)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wo Hop To"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tri-City Skins"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Colima Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Agora (online marketplace)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Di Lauro clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lucerne Street Doggz"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Zone 2 (rap group)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Roach Guards"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Arms trafficking"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yardies"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Haqqani network"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Goto-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Fresno Bulldogs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kumla Prison"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Outlaws Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Genna crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kielbasa Posse"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Naglite"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Solntsevskaya Bratva"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Propaganda Due"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"East Nashville Crips"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mai-Mai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kantō-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Asano-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Italian-American National Union"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Negros"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cordì 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Carlton Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ikeda-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chicago Gaylords"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Colombo crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rum-running"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Famiglia Vagabonda"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Amigos dos Amigos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Juggalo gangs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Vasil Iliev Security"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"West End Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"OFB (rap group)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dacoit"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Richardson Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"AlphaBay Market"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Penny Mobs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Honoured Society (Australia)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yamaken-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hudson Dusters"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"19th Street Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sun Yee On"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Flathead gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Al Salam 313"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Disciples"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Castor de Andrade"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Muthappa Rai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ciro Mancuso"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Licciardi clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Honda-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nuova Famiglia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"K&A Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wonderland Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Green Street Counts"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Guerrilla Family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Public Enemy No. 1 (street gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dodge City Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nine Trey Gangsters"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"AK81"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gang of Pusi i Mezinit"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Evolution (marketplace)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Clan del Golfo"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"10th & Oregon Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tcharmil"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nucky Johnson's Organization"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lenox Avenue Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sword Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gaming law"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cohen crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Lanzetta Brothers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Portland Spy Ring"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Camorra"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aota-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Santa Cruz Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jheri Curls"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Hand (Chicago)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Apex (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Patriarca crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Latin Kings (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Guardiões do Estado"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Söylemez Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"South Brooklyn Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aston Villa Hardcore"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Trafficante crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jamaat al Muslimeen"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bugs and Meyer Mob"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kenmun"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Five Families"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Operation Seek and Keep"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cotroni crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Haji Mastan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Banditti of the Prairie"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tonton Macoute"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Puro Tango Blast"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Contini clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Glasgow razor gangs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"North Coast Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Detroit Partnership"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aryan Circle"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rizzuto crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Osmanen Germania"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kizuna-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Cobra (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rosewood"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shinwa-kai (Takamatsu)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Big Circle Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Special Purpose Islamic Regiment"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"National Liberation Front of Corsica"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Medellín Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yamaguchi-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aizukotetsu-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Boodle Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Brazilian police militias"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Redd Alert"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bowe Brothers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"St. Louis crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gang of Gaxhai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Blue Angels Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shan State"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Power (New Zealand)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"South Pacific Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lubyanka Criminal Group"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Jackets"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tanglewood Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Couscous connection"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Four Seas Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Inzerillo Mafia clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gangster Disciples"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Izmaylovskaya gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Evil Warriors"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Birmingham Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Venice 13"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Eagles"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Multigroup"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"GAS Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Extraditables"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"DeCavalcante crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ragen's Colts"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Philadelphia Poison Ring"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Família do Norte"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Red Light Lizzie"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Smuggling organization"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Commisso 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Norte del Valle Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Orekhovskaya gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Spanish Gangster Disciples"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rollin' 30s Harlem Crips"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"McCarthy-Dundon"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Triad (underground society)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Cowboys (Cochise County)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lucchese crime family New Jersey faction"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"5T (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Benson Syndicate"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Coffin Cheaters"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Santiago Luis Polanco Rodríguez"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Philadelphia crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Pappu Kalani"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cuntrera-Caruana Mafia clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shinwa-kai (Sumiyoshi-ikka)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Luppino crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chichesters"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dixon Bloods"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Latin Counts"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bowery Boys (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Triad (organized crime)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Valley Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Maniac Latin Disciples"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Quality Street Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dubois brothers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Inter-Services Intelligence"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Market Reloaded"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lai Changxing"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Peaky Blinders"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Highway 61 Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cape Verdean organized crime"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"38th Street gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Khun Sa"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Culver City Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"D.C. Blacks"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dead Man Incorporated"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Guerreros Unidos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Croatian National Resistance"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sheldon Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chinatown, Manhattan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Clerkenwell crime syndicate"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dockers Union"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bottoms Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tarabin bedouin"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Four Corner Hustlers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tekiya"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Doshida-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sinaloa Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dallas crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dan Tan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mongrel Mob"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rebels Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Mafia Family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ai Lok San / Pek Kim Leng"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tuwamono"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Daybreak Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Phoolan Devi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Metros"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kyokuto-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"A.U.E."}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cheetham Hill Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dung Hà"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Freight Train Riders of America"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Porrello crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Seven Group"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Teng Bunma"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Friends Stand United"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Apache (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bình Xuyên"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Comando Vermelho"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"La Corporación"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ichiwa-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Simon City Royals"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shelton Brothers Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Muttahida Qaumi Movement – Pakistan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tijuana Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Zetas"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Big Circle Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Domotor-Kolompar criminal organization"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Camera di Controllo (Ndrangheta)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"United Bamboo Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rocks Push"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Buffalo crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Venice Shoreline Crips"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Loyal to Familia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Luen Group"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Masters of Deception"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cornbread Mafia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Viet Boyz"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Snakehead (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tambov Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Unione Corse"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Swamp Angels"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Family (American crime organization)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Argentina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kidnapping"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bergin Hunt and Fish Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sumiyoshi-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Milwaukee crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Colorado crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Taliban"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hoxton Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dojin-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sureños"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Vollaro clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mandamento (Sicilian Mafia)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mullen Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bōsōzoku"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Irish Republican Army"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Moran family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Turković Organization"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sugarman Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Almighty Vice Lord Nation"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Milenio Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bali Nine"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Highwaymen Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cleveland crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Yiddishers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hogan Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Garduña"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kanto Sekine-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kray Twins"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Red Wa"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"El Monte Flores"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chotu gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Toa-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sister Ping"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gang de la Brise de Mer"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Norman Conks"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Honeymoon Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Avalanche (phishing group)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kokusui-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Auto-Mafia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sydney Ducks"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wildlife trade"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Marielitos (gangs)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Saikaiya"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Ántrax"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Società foggiana"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Emperors Club VIP"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ghetto Brothers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bahala Na Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Brothers for Life"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tamil Makkal Viduthalai Pulikal"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rathkeale Rovers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"HackBB"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"National Crime Syndicate"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Charlestown Mob"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sabini syndicate"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bloque Meta"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cataldo 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"La Familia Michoacana"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Carder.su"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tommy Lucchese"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kipps Lane Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ouane Rattikone"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nuova Camorra Organizzata"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Markham Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Nueva Plaza Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mexikanemi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Musashiya-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Khánh Trắng"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Eastside Bolen Parque 13"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Azusa 13"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gooch Close Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"ShadowCrew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Tuna Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sumiyoshi-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gulf Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"VVT (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Plug Uglies"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"New Zealand Nomads"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"6.57 Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Caborca Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Avenues (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Brothers' Circle"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Egan's Rats"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"People Nation"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Muerte a Secuestradores"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Mexicles"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"TAP Boyz"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bacon Brothers (gangsters)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kuratong Baleleng"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Santa Rosa de Lima Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tiandihui"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chung Ching Yee"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kadyrovtsy"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dominicans Don't Play"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Azuma-gumi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Company (Hawaiian organized crime)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"KUMI 415"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sangerman's Bombers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Pesce 'ndrina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gang des Tractions Avant"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Yogurt Connection"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aggi Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Pink Panthers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Secondigliano Alliance"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tong (organization)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Alfieri clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Augusto La Torre"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"La Barredora"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"'Ndrangheta"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chojiya-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Lo Fu-chu"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wo On Lok/Shui Fong"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hook Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Đại Cathay"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tiny Rascal Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Rastrojos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Inagawa-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"British firms (organised crime)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Charles Hitchen"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Năm Cam"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Scissionisti di Secondigliano"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"DarkMarket"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Peckham Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Charlton Street Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Philadelphia Greek Mob"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Forty-Two Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"East Harlem Purple Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kansuke"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Casalesi clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kyowa-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Loomis Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"36 Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rochester crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Okinawa Kyokuryu-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yamano-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"New York divorce coercion gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Guadalajara Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Arsenal firm"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sheep Marketplace"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Colectivo (Venezuela)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shauntay Henderson"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Double II Set"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hermanos de Pistoleros Latinos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Iijima-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"La Raza Nation"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Night Wolves"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Aldington Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Raskol gangs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bamboo Union"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"D-Company"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yüksekova Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mallardo clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Woolwich Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Puente 13"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"White Fence"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Salakau"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Morello crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Whyos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Hidden Valley Kings"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mala del Brenta"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mickey Cobras"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dixie Mafia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gustin Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Okubo-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mr Asia"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Cali Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kodo-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Siderno Group"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Greco Mafia clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"No Limit Soldiers (organized crime group)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Formby Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Angiulo Brothers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gopher Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"White American"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kyodo-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Gang des postiches"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kanto Union"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Forty Elephants"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Genovese crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Potashes (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"European Kindred"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Banda della Magliana"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wolfpack Alliance"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Angeles crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Numbers Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chambers Brothers (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yokosuka-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Mazatlecos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The College Kidnappers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Playboys (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jalisco New Generation Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tongan Crip Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aum Shinrikyo"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"One Million Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Young Boys Inc."}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Juárez Cartel"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"North Preston's Finest"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"New Orleans crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bloods"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Office of Envigado"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Los Rojos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Maceo Organization"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"United Nations (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Silk Road (marketplace)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Independent Soldiers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wah Kee"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bling Ring"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Wo Group"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Humpty Jackson Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Northside Bolen Parque 13"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Walker spy ring"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Doghmush clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Stuppagghiari"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Elephant and Castle Mob"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Service d'Action Civique"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kumamoto-rengo"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Potato Bag gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Aava Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Fucked For Life"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tehrik-i-Taliban Pakistan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Corleonesi Mafia clan"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Numbers Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Almighty Saints"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bonanno crime family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Basilischi"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Chickens and the Bulls"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Westmob"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mungiki"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rollin' 60s Neighborhood Crips"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Neighborhood 90s Crips"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ghetto Boys"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"OutLaw Gangster Disciples"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kaibiles"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Spades"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tottenham Mandem"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Capitão Guimarães"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dominion of Melchizedek"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kyosei-kai"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Scuttlers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"United Blood Nation"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"State Line Mob"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Dragon (Bōsōzoku)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Satanas (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Toonerville Rifa 13"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Shapiro Brothers"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Jundallah (Iran)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"14K (triad)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Road Knights"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Pomona 12th Street Sharkies"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Supreme Team (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Russo clan (Nola)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Pettingill family"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Killa Beez (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Commission (American Mafia)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Mạnh Bệu"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Organizacion de Narcotraficantes Unidos"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Chao pho"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bloody Tubs"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Yamakawa-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Primeiro Comando da Capital"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Rudaj Organization"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Trinitarios"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kinahan Organised Crime Group"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Kohei-ikka"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Tub of Blood Bunch"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Garduna"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Uralmash gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Vario Crew"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Slaughter House Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"14K Triad"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Banda della Comasina"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"La Línea (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ashkenazum"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"The Farmer's Market"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Alaattin Çakıcı"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Ringvereine"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Utopia (marketplace)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Original Gangsters (gang)"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Henry Street Gang"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Manitoba Warriors"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Black Death Group"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Sons of Silence"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Bandidos Motorcycle Club"}]}
+{"label":"GANG_ORG","pattern":[{"lower":"Soldiers of Aryan Culture"}]}
